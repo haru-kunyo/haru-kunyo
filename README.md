@@ -1,7 +1,7 @@
 ![MasterHead](https://static.myfigurecollection.net/upload/pictures/2023/09/07/3745732.gif)
 <h1 align="center">Hi 👋, I'm Haru-Kun</h1>
 <h3 align="center">A passionate programming enthusiast who wants to delve into this world futher.⸜(｡˃ ᵕ ˂ )⸝♡</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3AyY.gif">
+<img align="right" alt="Coding" width="400" src="https://steamuserimages-a.akamaihd.net/ugc/90470964761468233/EBE96184DD5BD1AFD12E7550B87CE0E24D9772AB/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 
 - ⚡ Fun fact **I procastinate a lot. (；⌣̀_⌣́)**
 
